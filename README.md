@@ -24,8 +24,8 @@ A full-stack web application to manage and view student team members, including 
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/team-eagle-app.git
-cd team-eagle-app
+git clone (https://github.com/nikhilkorada/team-management-application)
+cd team-management-application
 
 ### Navigate to frontend and install dependencies
 
@@ -34,7 +34,7 @@ npm install
 
 ### Navigate to backend and install dependencies
 
-cd client
+cd backend
 npm install
 
 ## ⚙️ Environment Setup
